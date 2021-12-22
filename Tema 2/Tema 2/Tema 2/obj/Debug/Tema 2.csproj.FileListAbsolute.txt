@@ -1,0 +1,7 @@
+C:\Users\Dora\source\repos\Teme\SET 2\Tema 2\Tema 2\Tema 2\bin\Debug\Tema 2.exe.config
+C:\Users\Dora\source\repos\Teme\SET 2\Tema 2\Tema 2\Tema 2\bin\Debug\Tema 2.exe
+C:\Users\Dora\source\repos\Teme\SET 2\Tema 2\Tema 2\Tema 2\bin\Debug\Tema 2.pdb
+C:\Users\Dora\source\repos\Teme\SET 2\Tema 2\Tema 2\Tema 2\obj\Debug\Tema 2.csproj.AssemblyReference.cache
+C:\Users\Dora\source\repos\Teme\SET 2\Tema 2\Tema 2\Tema 2\obj\Debug\Tema 2.csproj.CoreCompileInputs.cache
+C:\Users\Dora\source\repos\Teme\SET 2\Tema 2\Tema 2\Tema 2\obj\Debug\Tema 2.exe
+C:\Users\Dora\source\repos\Teme\SET 2\Tema 2\Tema 2\Tema 2\obj\Debug\Tema 2.pdb
