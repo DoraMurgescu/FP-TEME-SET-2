@@ -1,0 +1,7 @@
+C:\Users\Dora\source\repos\Teme\SET 2\Tema 6\Tema 6\Tema 6\obj\Debug\Tema 6.csproj.AssemblyReference.cache
+C:\Users\Dora\source\repos\Teme\SET 2\Tema 6\Tema 6\Tema 6\obj\Debug\Tema 6.csproj.CoreCompileInputs.cache
+C:\Users\Dora\source\repos\Teme\SET 2\Tema 6\Tema 6\Tema 6\bin\Debug\Tema 6.exe.config
+C:\Users\Dora\source\repos\Teme\SET 2\Tema 6\Tema 6\Tema 6\bin\Debug\Tema 6.exe
+C:\Users\Dora\source\repos\Teme\SET 2\Tema 6\Tema 6\Tema 6\bin\Debug\Tema 6.pdb
+C:\Users\Dora\source\repos\Teme\SET 2\Tema 6\Tema 6\Tema 6\obj\Debug\Tema 6.exe
+C:\Users\Dora\source\repos\Teme\SET 2\Tema 6\Tema 6\Tema 6\obj\Debug\Tema 6.pdb
